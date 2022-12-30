@@ -1,0 +1,4 @@
+# App-ads.txt hiwenhu.github.io
+
+# Admob
+google.com, pub-5239052367644478, DIRECT, f08c47fec0942fa0
