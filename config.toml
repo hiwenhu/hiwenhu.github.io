@@ -1,0 +1,4 @@
+baseURL = 'https://hiwenhu.github.io/'
+languageCode = 'en-us'
+title = 'My Dev Home Page'
+theme = 'ananke'
